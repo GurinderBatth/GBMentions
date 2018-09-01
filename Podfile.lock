@@ -1,0 +1,21 @@
+PODS:
+  - Hakawai (5.1.6):
+    - Hakawai/Core (= 5.1.6)
+    - Hakawai/Mentions (= 5.1.6)
+  - Hakawai/Core (5.1.6)
+  - Hakawai/Mentions (5.1.6):
+    - Hakawai/Core
+
+DEPENDENCIES:
+  - Hakawai (~> 5.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Hakawai
+
+SPEC CHECKSUMS:
+  Hakawai: caf8cceda91548a12552d167e79c7dd88a88a7c2
+
+PODFILE CHECKSUM: 09ddfb9fdeda98a84bd55b2c6476742b1015f52b
+
+COCOAPODS: 1.5.3
